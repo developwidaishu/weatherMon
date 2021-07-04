@@ -11,7 +11,7 @@ function onTheFly(){
 }
 
 const api = {
-    key: "",
+    key: "",  //you apikey here
     base : "https://api.openweathermap.org/data/2.5/"
 }
 
