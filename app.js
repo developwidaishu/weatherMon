@@ -11,7 +11,7 @@ function onTheFly(){
 }
 
 const api = {
-    key: "9a3a30d6b1a27c0a9e8def0ff170aac7",
+    key: "",
     base : "https://api.openweathermap.org/data/2.5/"
 }
 
